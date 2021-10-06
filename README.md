@@ -7,7 +7,7 @@ A Software engineer working remotely at @CAIRSCODE from the Midwest of Brazil. L
 <br />
 <p align="center">
   <a href="https://www.linkedin.com/in/alvarobrasilia/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=alvarobrasilia&color=blue&logo=linkedin&style=flat-square&logoColor=white" /></a>
-  <a href="mailto:alvaro.brasilia8@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=alvaro.brasilia@gmail.com&color=red&logo=gmail&style=flat-square&logoColor=white" /></a>
+  <a href="mailto:alvaro.brasilia@gmail.com"><img src="https://img.shields.io/static/v1?label=Gmail&message=alvaro.brasilia@gmail.com&color=red&logo=gmail&style=flat-square&logoColor=white" /></a>
 </p>
 
 <br />
