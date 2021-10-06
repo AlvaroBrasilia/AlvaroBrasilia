@@ -171,3 +171,5 @@ A Software engineer working remotely at @CAIRSCODE from the Midwest of Brazil. L
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlvaroBrasilia&repo=AlvaroBrasilia&countColorcountColor)
 
 </details>
+
+![](https://hit.yhype.me/github/profile?user_id=2683945)
