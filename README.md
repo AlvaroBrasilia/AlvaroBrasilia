@@ -150,8 +150,9 @@ A Software engineer working remotely at @CAIRSCODE from the Midwest of Brazil. L
 </div>
 <br><br>
 <details>
-<summary>Click for vanity statistics</summary>
-<br />
+<summary><b>📊  Vanity statistics</b> <i>(click to expand)</i></summary>
+
+<!--  -->
 
 ![Metrics](https://github.com/AlvaroBrasilia/AlvaroBrasilia/blob/main/github-metrics.svg)
 
@@ -162,11 +163,11 @@ A Software engineer working remotely at @CAIRSCODE from the Midwest of Brazil. L
   </a>
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/2a9b9ff0-b15c-4c4a-b4c1-297c068c0880.svg)](https://wakatime.com/@2a9b9ff0-b15c-4c4a-b4c1-297c068c0880)
+![My GitHub Streak](https://my-github-readme-streak-stats.herokuapp.com?user=AlvaroBrasilia&theme=nord)
 
 [![AlvaroBrasilia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvaroBrasilia&layout=compact&theme=nord)](https://wakatime.com/@AlvaroBrasilia)
 
-![My GitHub Streak](https://my-github-readme-streak-stats.herokuapp.com?user=AlvaroBrasilia&theme=nord)
+[![wakatime](https://wakatime.com/badge/user/2a9b9ff0-b15c-4c4a-b4c1-297c068c0880.svg)](https://wakatime.com/@2a9b9ff0-b15c-4c4a-b4c1-297c068c0880)
 
 </details>
 
