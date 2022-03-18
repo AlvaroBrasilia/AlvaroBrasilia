@@ -163,7 +163,7 @@ A Software engineer working remotely at @CAIRSCODE from the Midwest of Brazil. L
   </a>
 </div>
 
-![My GitHub Streak](https://my-github-readme-streak-stats.herokuapp.com?user=AlvaroBrasilia&theme=nord)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroBrasilia&theme=nord)
 
 [![AlvaroBrasilia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlvaroBrasilia&layout=compact&theme=nord)](https://wakatime.com/@AlvaroBrasilia)
 
