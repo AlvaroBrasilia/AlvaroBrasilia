@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2186" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2236" class="large">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1055 Commits
+                            1059 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -378,14 +378,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="725.7719434752078" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="725.7719434752078" y="0" width="136.228868312324" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="862.0008117875318" y="0" width="19.479195811675478" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="881.4800075992073" y="0" width="13.19950864910677" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="894.6795162483141" y="0" width="11.051266551535393" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="905.7307827998494" y="0" width="7.252984590383031" height="8" fill="#5a6986"/>
-                    <rect mask="url(#languages-bar)" x="912.9837673902325" y="0" width="5.061681591174868" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="918.0454489814074" y="0" width="1.9545510185925916" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="725.7512509404436" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="725.7512509404436" y="0" width="136.22498428150857" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="861.9762352219522" y="0" width="19.478640438958006" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="881.4548756609101" y="0" width="13.199132316990259" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="894.6540079779004" y="0" width="11.050951468099937" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="905.7049594460004" y="0" width="7.252777800030867" height="8" fill="#5a6986"/>
+                    <rect mask="url(#languages-bar)" x="912.9577372460312" y="0" width="5.061537277216148" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="918.0192745232474" y="0" width="1.9807254767526814" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1508,6 +1508,38 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#734193d</div>
+                                        <div class="message">New start app with gracefulShutdown and improvements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ff0580</div>
+                                        <div class="message">Fix types/ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#982a6d4</div>
+                                        <div class="message">create callPix function/endpoint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b856aae</div>
+                                        <div class="message">schema.prisma update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-back-end</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#16c8690</div>
                                         <div class="message">gracefulShutdown</div>
                                     </div>
@@ -1598,26 +1630,6 @@
                                     <div class="commit">
                                         <div class="sha">#b3a92cb</div>
                                         <div class="message">util/jb.ts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-front-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0ba8492</div>
-                                        <div class="message">Fix components/AuthDialogSignUp.vue</div>
                                     </div>
                                 </div>
                             </section>
@@ -1783,7 +1795,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.763860369609844 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.80629705681041 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2350,7 +2362,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2022, 09:33:59 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 15:20:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
