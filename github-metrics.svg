@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1206 Commits
+                            1208 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -372,14 +372,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="724.5491082930199" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="724.5491082930199" y="0" width="136.03166620129113" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="860.5807744943111" y="0" width="19.44637579683006" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="880.0271502911411" y="0" width="13.17727886943264" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="893.2044291605738" y="0" width="11.032646546079897" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="904.2370757066536" y="0" width="7.240764216183224" height="8" fill="#5a6986"/>
-                    <rect mask="url(#languages-bar)" x="911.4778399228369" y="0" width="5.561411824037596" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="917.0392517468745" y="0" width="2.960748253125586" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="724.5463989325347" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="724.5463989325347" y="0" width="136.0311575279425" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="860.5775564604771" y="0" width="19.446303079547597" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="880.0238595400247" y="0" width="13.177229594651589" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="893.2010891346763" y="0" width="11.032605290882342" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="904.2336944255586" y="0" width="7.240737140253898" height="8" fill="#5a6986"/>
+                    <rect mask="url(#languages-bar)" x="911.4744315658124" y="0" width="5.561391027835841" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="917.0358225936484" y="0" width="2.964177406351602" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1790,7 +1790,7 @@ In my case using Nodejs + Nginx + Vuejs/Vite(Front) I managed to solve it by con
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.212183436002746 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.25462012320328 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1851,7 +1851,7 @@ In my case using Nodejs + Nginx + Vuejs/Vite(Front) I managed to solve it by con
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 675k out of 93m users</span>
+                                    <span class="gh">ranked 676k out of 93m users</span>
                                 </div>
                                 <div class="text">Published 41 public repositories</div>
                             </div>
@@ -2318,7 +2318,7 @@ In my case using Nodejs + Nginx + Vuejs/Vite(Front) I managed to solve it by con
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 09:34:22 (timezone America/Sao_Paulo) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 15:20:15 (timezone America/Sao_Paulo) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
