@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2143" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2212" class="large">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1703 Commits
+                            1712 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            29 issue comments
+                            30 issue comments
                         </div>
                     </section>
                     <section>
@@ -372,14 +372,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="695.4179707576766" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="695.4179707576766" y="0" width="133.8644620954194" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="829.282432853096" y="0" width="32.55672195389296" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="861.839154806989" y="0" width="18.66451706369871" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="880.5036718706876" y="0" width="12.670597512740265" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="893.1742693834279" y="0" width="10.983849743256837" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="904.1581191266848" y="0" width="8.892237984628464" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="913.0503571113132" y="0" width="6.9496428886867845" height="8" fill="#5a6986"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="695.3669255240892" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="695.3669255240892" y="0" width="133.85463614466167" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="829.2215616687508" y="0" width="32.58395378131666" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="861.8055154500674" y="0" width="18.66314704642367" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="880.4686624964911" y="0" width="12.669667462559039" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="893.1383299590501" y="0" width="10.98304350413244" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="904.1213734631825" y="0" width="8.92949376745381" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="913.0508672306364" y="0" width="6.949132769363558" height="8" fill="#5a6986"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1400,10 +1400,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-6.8, 6.4)">
+                            <g transform="translate(-6.8, 6.16)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.6 0,4.6 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.6 1.7,5.6 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.84 0,4.84 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.84 1.7,5.84 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1459,6 +1459,94 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-back-end</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6ddd36b</div>
+                                        <div class="message">chore: update modules</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db76fc8</div>
+                                        <div class="message">refactor: Improve debug messages</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6c0863</div>
+                                        <div class="message">refactor: Sorteadores Bree</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1aa3700</div>
+                                        <div class="message">refactor: Util/formatjobDateTime function</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4b059f5</div>
+                                        <div class="message">feat: filter by txid</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-front-end</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#35ebbe5</div>
+                                        <div class="message">refactor: CotasDialog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c4862de</div>
+                                        <div class="message">refactor: acceptCredit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3251b5</div>
+                                        <div class="message">refactor: Sorteadores screen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f7b529</div>
+                                        <div class="message">fix return msg</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#205 [feat] function to list all runnning jobs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by spyshow in <span class="repo">breejs/bree</span></div>
+                                    <div class="comment">
+                                        You can try this:
+                                        <code>const jobsRunning = bree.config.jobs.map((j: { name: string }) =&gt; j.name)</code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1492,91 +1580,6 @@
                                     <div class="commit">
                                         <div class="sha">#81b61fc</div>
                                         <div class="message">fix:  @touch clicks</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-front-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64c2882</div>
-                                        <div class="message">fix: remove unused code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2057fb7</div>
-                                        <div class="message">fix: showToast message on reserve</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-front-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f95c034</div>
-                                        <div class="message">chore: modules update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecba7f1</div>
-                                        <div class="message">fix: remove v-template tag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5bfeb2</div>
-                                        <div class="message">refactor: Clientes/Pagamentos insert campos na busca</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9bcbe1d</div>
-                                        <div class="message">refactor: vite.config.ts type</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#73755f2</div>
-                                        <div class="message">refactor: Sorteio
-
-- Botão selecionar aleatorio
-- Botão mostrar minhas cotas
-- Fix numeros selecionados
-- Fix botões de grupos/bichos selecionados</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-back-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b5d2137</div>
-                                        <div class="message">update</div>
                                     </div>
                                 </div>
                             </section>
@@ -2299,7 +2302,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2022, 22:11:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 9 Dec 2022, 03:18:50 (timezone America/Sao_Paulo) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
