@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1737 Commits
+                            1738 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -372,14 +372,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="695.1861993965954" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="695.1861993965954" y="0" width="133.81984727399558" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="829.0060466705909" y="0" width="32.75517880294343" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="861.7612254735343" y="0" width="18.658296487432807" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="880.4195219609671" y="0" width="12.666374611183604" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="893.0858965721508" y="0" width="10.980189006963046" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="904.0660855791137" y="0" width="8.98658773376322" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="913.052673312877" y="0" width="6.947326687123018" height="8" fill="#5a6986"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="695.1861499361124" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="695.1861499361124" y="0" width="133.81983775310138" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="829.0059876892137" y="0" width="32.755176472507415" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="861.7611641617212" y="0" width="18.658295159949102" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="880.4194593216703" y="0" width="12.66637371000777" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="893.085833031678" y="0" width="10.980188225754429" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="904.0660212574325" y="0" width="8.986652549726616" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="913.0526738071591" y="0" width="6.947326192840864" height="8" fill="#5a6986"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1502,6 +1502,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#3885f17</div>
+                                        <div class="message">fix maxbuyer</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-front-end</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#1350550</div>
                                         <div class="message">fix edit sorteio maxBuyPerRequest to number</div>
                                     </div>
@@ -1572,26 +1592,6 @@
                                     <div class="commit">
                                         <div class="sha">#35f282f</div>
                                         <div class="message">chore: update modules</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-back-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#72513b9</div>
-                                        <div class="message">fix type</div>
                                     </div>
                                 </div>
                             </section>
@@ -1786,7 +1786,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.1033538672142509 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.1882272416153175 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1847,7 +1847,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 685k out of 104m users</span>
+                                    <span class="gh">ranked 686k out of 104m users</span>
                                 </div>
                                 <div class="text">Published 43 public repositories</div>
                             </div>
@@ -2036,7 +2036,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 587k out of 104m users</span>
+                                    <span class="gh">ranked 588k out of 104m users</span>
                                 </div>
                                 <div class="text">Followed by 18 users</div>
                             </div>
@@ -2314,7 +2314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2022, 09:28:12 (timezone America/Sao_Paulo) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 15:18:04 (timezone America/Sao_Paulo) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
