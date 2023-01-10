@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1795 Commits
+                            1796 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -372,14 +372,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="694.6811440093645" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="694.6811440093645" y="0" width="133.7226266518906" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="828.4037706612552" y="0" width="32.9681582211049" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="861.3719288823601" y="0" width="18.644741164893745" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="880.0166700472539" y="0" width="12.657172442412687" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="892.6738424896665" y="0" width="10.972211858372361" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="903.6460543480389" y="0" width="9.411666223792999" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="913.057720571832" y="0" width="6.942279428168182" height="8" fill="#5a6986"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="694.678448810853" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="694.678448810853" y="0" width="133.72210783973136" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="828.4005566505843" y="0" width="32.97159969482309" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="861.3721563454076" y="0" width="18.64466882770845" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="880.016825173116" y="0" width="12.65712333557767" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="892.6739485086936" y="0" width="10.972169288785835" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="903.6461177974794" y="0" width="9.411629708754385" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="913.0577475062339" y="0" width="6.9422524937662" height="8" fill="#5a6986"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1490,6 +1490,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-back-end</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9281d3e</div>
+                                        <div class="message">fix saldo</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">AlvaroBrasilia/awesome-betting-app-back-end</span>
                                     </div>
@@ -1566,26 +1586,6 @@
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#25acbcd</div>
-                                        <div class="message">fix</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-front-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b1f6915</div>
                                         <div class="message">fix</div>
                                     </div>
                                 </div>
@@ -1847,7 +1847,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 695k out of 105m users</span>
+                                    <span class="gh">ranked 696k out of 105m users</span>
                                 </div>
                                 <div class="text">Published 43 public repositories</div>
                             </div>
@@ -2314,7 +2314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jan 2023, 03:19:33 (timezone America/Sao_Paulo) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 10 Jan 2023, 09:28:19 (timezone America/Sao_Paulo) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
