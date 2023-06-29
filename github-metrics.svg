@@ -1649,18 +1649,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">awesome-betting-app-ftn-front-end</span>
-                                <div class="bar" style="width: 34.696%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">43%</span>
+                                <div class="bar" style="width: 36.216%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">awesome-betting-app-ftn-msg</span>
-                                <div class="bar" style="width: 26.039999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">33%</span>
+                                <div class="bar" style="width: 25.055999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">31%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">awesome-betting-app-ftn-back-end</span>
-                                <div class="bar" style="width: 19.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 18.688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">awesome-betting-app-front-end</span>
@@ -1674,27 +1674,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 42.536%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 42.912%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">54%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue.js</span>
-                                <div class="bar" style="width: 28.168000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Bash</span>
-                                <div class="bar" style="width: 3.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 28.951999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 3.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.2159999999999993%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">Git Config</span>
-                                <div class="bar" style="width: 0.968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Bash</span>
+                                <div class="bar" style="width: 2.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 1.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2079,7 +2079,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.20m out of 411m repositories</span>
+                                    <span class="gh">ranked 2.17m out of 411m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2195,7 +2195,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.67m out of 411m repositories</span>
+                                    <span class="gh">ranked 4.79m out of 411m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2319,7 +2319,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2023, 22:20:40 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jun 2023, 03:19:54 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
