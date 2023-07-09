@@ -372,14 +372,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="655.0245771510899" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="655.0245771510899" y="0" width="159.5680228715992" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="814.5926000226892" y="0" width="42.133293075461545" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="856.7258930981508" y="0" width="17.580387495678757" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="874.3062805938296" y="0" width="16.771780789682392" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="891.0780613835119" y="0" width="11.953109666813566" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="903.0311710503255" y="0" width="10.422856475662487" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="913.454027525988" y="0" width="6.545972474012154" height="8" fill="#5a6986"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="655.018479880461" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="655.018479880461" y="0" width="159.56653753890615" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="814.5850174193671" y="0" width="42.14146466333012" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="856.7264820826972" y="0" width="17.58022384933011" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="874.3067059320274" y="0" width="16.77162467021761" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="891.0783306022449" y="0" width="11.952998401760256" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="903.0313290040052" y="0" width="10.42275945491109" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="913.4540884589163" y="0" width="6.545911541083687" height="8" fill="#5a6986"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1473,14 +1473,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-back-end</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c407513</div>
-                                        <div class="message">fix group</div>
+                                        <div class="sha">#492c6d9</div>
+                                        <div class="message">fix extraction</div>
                                     </div>
                                 </div>
                             </section>
@@ -1493,14 +1493,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70d8196</div>
-                                        <div class="message">fix badge</div>
+                                        <div class="sha">#91947d4</div>
+                                        <div class="message">refactor: fix welcome msg</div>
                                     </div>
                                 </div>
                             </section>
@@ -1513,14 +1513,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#229ecb8</div>
-                                        <div class="message">refactor: improve groups sorteio type</div>
+                                        <div class="sha">#95d0e2f</div>
+                                        <div class="message">refactor: fix welcome msg</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-msg</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d6a1d99</div>
+                                        <div class="message">refactor: fix wellcome message when invisible sorteio</div>
                                     </div>
                                 </div>
                             </section>
@@ -1539,28 +1559,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f060bda</div>
-                                        <div class="message">refactor: handle jsonWebTokenError: invalid signature Error</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlvaroBrasilia/awesome-betting-app-ftn-back-end</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cf43e92</div>
-                                        <div class="message">fix: redis host bull</div>
+                                        <div class="sha">#e7f848c</div>
+                                        <div class="message">refactor: Fix send release message when invisible</div>
                                     </div>
                                 </div>
                             </section>
@@ -1690,7 +1690,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2023, 09:26:54 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 Jul 2023, 15:16:46 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
