@@ -1501,14 +1501,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-back-end</span>
+                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a01b85f</div>
-                                        <div class="message">feature: Insert Youtube channel link and btn icon</div>
+                                        <div class="sha">#8874a45</div>
+                                        <div class="message">refactor: improve wa reconnect and queue pause</div>
                                     </div>
                                 </div>
                             </section>
@@ -1521,14 +1521,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e1f7af4</div>
-                                        <div class="message">feature: Inser Youtube channel link and btn icon</div>
+                                        <div class="sha">#54f450f</div>
+                                        <div class="message">refactor: improve wa reconnect and queeue pause</div>
                                     </div>
                                 </div>
                             </section>
@@ -1541,14 +1541,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#20c28c2</div>
-                                        <div class="message">refactor: fix light theme</div>
+                                        <div class="sha">#ea3c67e</div>
+                                        <div class="message">import redis opts</div>
                                     </div>
                                 </div>
                             </section>
@@ -1561,14 +1561,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#392a2f3</div>
-                                        <div class="message">refactor: fix cert_file upload</div>
+                                        <div class="sha">#a88ff9e</div>
+                                        <div class="message">fix</div>
                                     </div>
                                 </div>
                             </section>
@@ -1581,14 +1581,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-front-end</span>
+                                        <span class="repo">XpertMinds/awesome-betting-app-ftn-msg</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f3902d0</div>
-                                        <div class="message">refactor: fix logo/banner upload</div>
+                                        <div class="sha">#7b027bd</div>
+                                        <div class="message">refactor: Fix reconnect wa</div>
                                     </div>
                                 </div>
                             </section>
@@ -1834,7 +1834,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.020000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="13.329999999999998 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1856,7 +1856,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 542 times</div>
+                                <div class="text">Repositories have been deployed 543 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2088,7 +2088,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.55m out of 206m repositories</span>
+                                    <span class="gh">ranked 2.55m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2202,7 +2202,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.30m out of 206m repositories</span>
+                                    <span class="gh">ranked 5.30m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2326,7 +2326,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2024, 03:20:36 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2024, 09:27:33 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
