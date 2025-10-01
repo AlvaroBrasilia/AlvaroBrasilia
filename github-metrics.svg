@@ -1624,8 +1624,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">awesome-betting-app-ftn-back-end</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 79.144%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">99%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">fortune-amplify-api</span>
+                                <div class="bar" style="width: 0.8560000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -1634,8 +1639,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 79.99199999999999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 79.136%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">99%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 0.8560000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
@@ -1666,7 +1676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2025, 09:39:20 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 15:26:05 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
